@@ -1,4 +1,5 @@
-                               <h1 align="center">Hi 👋, I'm VIKAS PANDEY</h1>
+<h1 align="center">Hi 👋, I'm VIKAS PANDEY</h1>
+<h3 align="center">A passionate Computer Science Engineering Student</h3>
 
 - 👀 I’m interested in LEARNING NEW TECHNOLOGY
 - 🌱 I’m currently learning COMPETITIVE PROGRAMMING
