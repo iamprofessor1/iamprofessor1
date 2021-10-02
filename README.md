@@ -27,9 +27,9 @@
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamprofessor1&layout=compact&langs_count=8&theme=algolia"/>
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamprofessor1&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 
-## 🏆 Github Profile Trophy
+<!--## 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamprofessor1&theme=buddhism&row=2&column=4)](https://github.com/iamprofessor1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamprofessor1&theme=buddhism&row=2&column=4)](https://github.com/iamprofessor1/github-profile-trophy)-->
 
 
 <!---
