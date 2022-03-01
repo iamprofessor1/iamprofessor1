@@ -4,7 +4,7 @@
 - 👀 I’m interested in LEARNING NEW TECHNOLOGY
 - 🌱 I’m currently learning COMPETITIVE PROGRAMMING
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vikaspandey12062001@gmail.com
+- 📫 How to reach me vikaspandey12062001@gmail.com , vikaspandey1206@gmail.com
 
 <br />
 
