@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm VIKAS PANDEY</h1>
 <h3 align="center">A passionate Computer Science Engineering Student</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71ACF&lines=Welcome+to+My+Github+Profile+)](https://git.io/typing-svg)
+
 - 👀 I’m interested in LEARNING NEW TECHNOLOGY
 - 🌱 I’m currently learning COMPETITIVE PROGRAMMING
 - 💞️ I’m looking to collaborate on ...
