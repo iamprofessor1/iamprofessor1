@@ -4,9 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71ACF&lines=Welcome+to+My+Github+Profile+)](https://git.io/typing-svg)
 
 - 👀 I’m interested in LEARNING NEW TECHNOLOGY
-- 🌱 I’m currently learning COMPETITIVE PROGRAMMING
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vikaspandey12062001@gmail.com , vikaspandey1206@gmail.com
+- 🌱 I’m currently learning Data Science and  COMPETITIVE PROGRAMMING
+- 💞️ I’m looking to collaborate on ML project and Web Dev Projects.
+- 📫 How to reach me   vikaspandey1206@gmail.com ,vikaspandey12062001@gmail.com
 
 <br />
 
