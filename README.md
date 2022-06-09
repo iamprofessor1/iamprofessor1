@@ -58,8 +58,6 @@
 ![snake](https://raw.githubusercontent.com/iamprofessor1/iamprofessor1/output/github-contribution-grid-snake.svg)
 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 
