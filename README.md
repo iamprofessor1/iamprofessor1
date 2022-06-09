@@ -55,9 +55,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=iamprofessor1&theme=redical)
 
-![snake](https://raw.githubusercontent.com/iamprofessor1/iamprofessor1/output/github-contribution-grid-snake.svg)
-
-
 
 
 
