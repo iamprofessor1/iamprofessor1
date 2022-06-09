@@ -34,7 +34,7 @@ jobs:
         
       - uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: iamprofessor1
 
                Exactly 5 colors are expected.
           outputs: |
